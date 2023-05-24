@@ -1,0 +1,7 @@
+{
+  "name": "AppMovilesPT4",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
